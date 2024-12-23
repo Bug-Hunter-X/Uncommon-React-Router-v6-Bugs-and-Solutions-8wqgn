@@ -1,0 +1,1 @@
+This repository demonstrates common yet uncommon bugs encountered when working with React Router v6, specifically focusing on nested routes, parameter handling, missing router providers, and potential conflicts with other libraries. Each example includes a buggy implementation and a corrected version with explanations.
